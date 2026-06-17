@@ -16,8 +16,6 @@ I work mostly in **Python** and **SQL** to wrangle and model data, and **Tableau
 **[Face ID System](https://github.com/arpitk2509/Face-ID-System)**
 A real-time facial recognition app built from scratch rather than off a pre-trained model — a custom CNN in TensorFlow/Keras, OpenCV handling webcam capture and preprocessing, and a multi-threaded Tkinter GUI so the app doesn't freeze while it trains in the background. This is the project that best shows how I actually build things.
 
-*(demo screenshot/gif — adding soon)*
-
 **[Sales & Customer Dashboard](https://github.com/arpitk2509/Tableau-Sales-and-Customer-Dashboard)**
 A two-tier Tableau dashboard built to practice a specific, useful skill: spotting that a product category can look great on revenue and still be quietly losing money. [Live, interactive version here](https://public.tableau.com/app/profile/arpit.kumar8685/viz/SalesandCustomerDashboard_17815163510030/CustomerDashboard).
 
