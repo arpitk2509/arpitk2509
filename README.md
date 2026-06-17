@@ -77,5 +77,10 @@ I am a data scientist and analyst based in Pune, India. Give me messy, real-worl
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arpitk2509/arpitk2509/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <a href="https://github.com/arpitk2509">
+    <img src="https://github-readme-stats.vercel.app/api?username=arpitk2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/arpitk2509">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitk2509&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
 </div>
