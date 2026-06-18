@@ -39,7 +39,7 @@ A few smaller EDA and classification projects (Titanic survival, road accident a
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arpit-kumar-44bb8a29b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="arpitkumar.uni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:arpitkumar.uni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 If you're a recruiter and you've read this far: I'd rather answer specific questions about how I work than have you guess from a buzzword list. Reach out.
