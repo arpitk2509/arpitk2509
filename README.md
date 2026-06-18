@@ -64,18 +64,16 @@ The full loop, start to finish: **pull the data → clean it → model or visual
 
 ---
 
-### 📈 GitHub Analytics
+### 🎯 Right Now
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitk2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitk2509&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+- 💼 **Seeking:** Actively looking for Data Analyst / Data Scientist roles and internships.
+- 🐳 **Learning:** Preparing for the Docker Certified Associate (DCA) exam to strengthen my DevOps, containerization, and deployment skills.
+- 💻 **Practicing:** Deepening algorithmic problem-solving on LeetCode, currently focusing on advanced data structures, dynamic programming, and sliding window patterns.
+- 🤝 **Open to:** Collaborating on hackathons, open-source data pipelines, and computer vision side projects.
 
 ---
 
 ### 📫 Talk To Me
-
-*Actively looking for Data Analyst / Data Scientist roles and internships.*
 
 If you're a recruiter and you've read this far: I'd rather answer specific questions about how I work than have you guess from a buzzword list. Reach out.
 
@@ -87,13 +85,3 @@ If you're a recruiter and you've read this far: I'd rather answer specific quest
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=arpitk2509&color=6366F1&style=flat&label=profile+views" alt="Profile Views" />
 </p>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitk2509/arpitk2509/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpitk2509/arpitk2509/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arpitk2509/arpitk2509/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
