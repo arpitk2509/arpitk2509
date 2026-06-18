@@ -22,7 +22,7 @@
 
 ### 🕵️‍♂️ The Short Version
 
-I am a third-year B.Tech CSE student and data analyst based in Pune, India. The short version: give me messy, real-world data — missing values, weird encodings, zero documentation — and I'll turn it into something a non-technical person can actually use to make a decision. 
+I'm a data scientist / data analyst based in Pune, India. The short version: give me messy, real-world data — missing values, weird encodings, zero documentation — and I'll turn it into something a non-technical person can actually use to make a decision.
 
 The full loop, start to finish: **pull the data → clean it → model or visualize it → explain what it actually means.**
 
