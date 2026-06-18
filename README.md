@@ -84,3 +84,10 @@ I am a data scientist and analyst based in Pune, India. Give me messy, real-worl
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitk2509&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitk2509/arpitk2509/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpitk2509/arpitk2509/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arpitk2509/arpitk2509/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
