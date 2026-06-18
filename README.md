@@ -67,7 +67,7 @@ The full loop, start to finish: **pull the data → clean it → model or visual
 ### 🎯 Right Now
 
 - 💼 **Seeking:** Actively looking for Data Analyst / Data Scientist roles and internships.
-- 🐳 **Learning:** Practicing Docker to strengthen my DevOps, containerization, and deployment skills.
+- 🐳 **Learning:** Strengthening my DevOps, containerization, and deployment skills.
 - 💻 **Practicing:** Deepening algorithmic problem-solving on LeetCode, currently focusing on advanced data structures, dynamic programming, and sliding window patterns.
 - 🤝 **Open to:** Collaborating on hackathons, open-source data pipelines, and computer vision side projects.
 
