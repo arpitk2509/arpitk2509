@@ -26,8 +26,6 @@ I work mostly in **Python** and **SQL** to wrangle and model data, and **Tableau
 **[Face ID System](https://github.com/arpitk2509/Face-ID-System)**
 A real-time facial recognition app built from scratch rather than off a pre-trained model — a custom CNN in TensorFlow/Keras, OpenCV handling webcam capture and preprocessing, and a multi-threaded Tkinter GUI so the app doesn't freeze while it trains in the background. This is the project that best shows how I actually build things.
 
-*(demo screenshot/gif — adding soon)*
-
 **[Sales & Customer Dashboard](https://github.com/arpitk2509/Tableau-Sales-and-Customer-Dashboard)**
 A two-tier Tableau dashboard built to practice a specific, useful skill: spotting that a product category can look great on revenue and still be quietly losing money. [Live, interactive version here](https://public.tableau.com/app/profile/arpit.kumar8685/viz/SalesandCustomerDashboard_17815163510030/CustomerDashboard).
 
@@ -35,13 +33,13 @@ A few smaller EDA and classification projects (Titanic survival, road accident a
 
 ## Right now
 
-*(Be specific here — for example: "Actively looking for Data Analyst / Data Scientist roles, and rebuilding FitCheck properly so the code matches what the README says.")*
+*Actively looking for Data Analyst / Data Scientist roles)*
 
 ## Talk to me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arpit-kumar-44bb8a29b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="arpitkumar.uni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 If you're a recruiter and you've read this far: I'd rather answer specific questions about how I work than have you guess from a buzzword list. Reach out.
