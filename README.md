@@ -33,7 +33,7 @@ A few smaller EDA and classification projects (Titanic survival, road accident a
 
 ## Right now
 
-*Actively looking for Data Analyst / Data Scientist roles*
+* Actively looking for Data Analyst / Data Scientist roles *
 
 ## Talk to me
 
