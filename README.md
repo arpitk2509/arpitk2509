@@ -1,51 +1,82 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:38BDF8,100:6366F1&height=180&section=header&text=Arpit%20Kumar&fontSize=55&fontColor=FFFFFF&desc=Data%20Scientist%20%7C%20Data%20Analyst&descSize=18&descAlignY=68&animation=fadeIn" width="100%"/>
+<h1 align="center">Hi, I'm Arpit 👋</h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+Analyst;Python+|+SQL+|+Tableau;Building+models+people+actually+use." alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <a href="https://www.linkedin.com/in/arpit-kumar-44bb8a29b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arpitkumar.uni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
 </p>
-
-I'm a data scientist / data analyst based in Pune, India. The short version: give me messy, real-world data — missing values, weird encodings, zero documentation — and I'll turn it into something a non-technical person can actually use to make a decision.
-
-I work mostly in **Python** and **SQL** to wrangle and model data, and **Tableau** to make the answer visible to people who don't want to open a notebook to find it.
-
-## What I actually use
-
-- **Python** — pandas, scikit-learn, NumPy, plus some computer vision work with OpenCV and TensorFlow/Keras
-- **SQL** — querying, cleaning, and joining data that didn't arrive pre-cleaned
-- **Tableau** — dashboards built for the person reading them, not the person who built them
-- The full loop, start to finish: pull the data → clean it → model or visualize it → explain what it actually means
-
-## Projects worth your time
-
-**[Face ID System](https://github.com/arpitk2509/Face-ID-System)**
-A real-time facial recognition app built from scratch rather than off a pre-trained model — a custom CNN in TensorFlow/Keras, OpenCV handling webcam capture and preprocessing, and a multi-threaded Tkinter GUI so the app doesn't freeze while it trains in the background. This is the project that best shows how I actually build things.
-
-*(demo screenshot/gif — adding soon)*
-
-**[Sales & Customer Dashboard](https://github.com/arpitk2509/Tableau-Sales-and-Customer-Dashboard)**
-A two-tier Tableau dashboard built to practice a specific, useful skill: spotting that a product category can look great on revenue and still be quietly losing money. [Live, interactive version here](https://public.tableau.com/app/profile/arpit.kumar8685/viz/SalesandCustomerDashboard_17815163510030/CustomerDashboard).
-
-A few smaller EDA and classification projects (Titanic survival, road accident analysis, Twitter sentiment) are also in my repos from when I was getting the fundamentals down — happy to walk through any of them.
-
-## Right now
-
-*(Be specific here — for example: "Actively looking for Data Analyst / Data Scientist roles, and rebuilding FitCheck properly so the code matches what the README says.")*
-
-## Talk to me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arpit-kumar-44bb8a29b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-If you're a recruiter and you've read this far: I'd rather answer specific questions about how I work than have you guess from a buzzword list. Reach out.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arpitk2509&color=6366F1&style=flat&label=profile+views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farpitk2509&countColor=%233776AB&style=flat-square" alt="Profile Views" />
 </p>
+
+---
+
+### 🕵️‍♂️ The Short Version
+I am a data scientist and analyst based in Pune, India. Give me messy, real-world data — missing values, weird encodings, zero documentation — and I'll turn it into something a non-technical person can actually use to make a decision. The full loop: **pull the data → clean it → model or visualize it → explain what it actually means.**
+
+*Actively looking for Data Analyst / Data Scientist roles.*
+
+### 🛠️ What I Actually Use
+
+**Data Science & Analysis**
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Machine Learning & Computer Vision**
+<br>
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Cloud & DevOps**
+<br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### 🚀 Projects Worth Your Time
+
+<table>
+  <tr>
+    <td width="50%">
+      <b><a href="https://github.com/arpitk2509/Face-ID-System">📸 Face ID System</a></b><br>
+      A real-time facial recognition app built from scratch rather than off a pre-trained model. Features a custom CNN in TensorFlow/Keras, OpenCV handling webcam capture and preprocessing, and a multi-threaded Tkinter GUI so the app doesn't freeze while training in the background.
+    </td>
+    <td width="50%">
+      <b><a href="https://github.com/arpitk2509/FitCheck-Smart-Health-Fitness-Analyzer">🩺 FitCheck (SIH 2025)</a></b><br>
+      An AI/ML-based Health & Fitness Report Analyzer developed for the Smart India Hackathon. Uses Logistic Regression, Random Forest, and XGBoost to predict disease risks from medical data, deployed via a Flask/FastAPI backend.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b><a href="https://github.com/arpitk2509/Tableau-Sales-and-Customer-Dashboard">📊 Sales & Customer Dashboard</a></b><br>
+      A two-tier Tableau dashboard built to practice spotting that a product category can look great on revenue and still be quietly losing money. <a href="https://public.tableau.com/app/profile/arpit.kumar8685/viz/SalesandCustomerDashboard_17815163510030/CustomerDashboard">Live Interactive Version</a>.
+    </td>
+    <td width="50%">
+      <b><a href="https://github.com/arpitk2509/Data-Scientist-Internship-Prodigy-Infotech">📈 Data Science Internship Portfolio</a></b><br>
+      A collection of EDA, NLP, and predictive modeling tasks including World Population analysis, Bank Term Deposit prediction (Decision Trees), and Twitter Sentiment analysis.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitk2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitk2509&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
