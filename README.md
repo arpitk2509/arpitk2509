@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+decisions;B.Tech+CSE+Student+|+Pune,+India;Python+|+SQL+|+Tableau;Building+models+people+actually+use." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+decisions;B.Tech+CSE+Student+|+Pune,+India;Python+|+SQL+|+Tableau+|+Excel;Building+models+people+actually+use." alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -30,10 +31,11 @@ The full loop, start to finish: **pull the data → clean it → model or visual
 
 ### 🛠️ What I Actually Use
 
-* **Python** — pandas, scikit-learn, NumPy, plus computer vision work with OpenCV and TensorFlow/Keras.
-* **SQL** — querying, cleaning, and joining data that didn't arrive pre-cleaned.
-* **Tableau** — dashboards built for the person reading them, not the person who built them.
-* **Cloud & DevOps** — Docker and Kubernetes containerization for deploying robust data pipelines.
+- **Python** — pandas, scikit-learn, NumPy, plus computer vision work with OpenCV and TensorFlow/Keras.
+- **SQL** — querying, cleaning, and joining data that didn't arrive pre-cleaned.
+- **Tableau** — dashboards built for the person reading them, not the person who built them.
+- **Excel** — rapid data exploration, pivot tables, and preliminary analysis before scaling to Python or SQL.
+- **Cloud & DevOps** — Docker and Kubernetes containerization for deploying robust data pipelines.
 
 ---
 
@@ -42,20 +44,26 @@ The full loop, start to finish: **pull the data → clean it → model or visual
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/arpitk2509/Face-ID-System">📸 Face ID System</a></b><br>
-      A real-time facial recognition app built from scratch rather than off a pre-trained model. Features a custom CNN in TensorFlow/Keras, OpenCV handling webcam capture and preprocessing, and a multi-threaded Tkinter GUI so the app doesn't freeze while training in the background.
+      <b><a href="https://github.com/arpitk2509/flight-delay-predictor">✈️ Flight Delay Predictor</a></b><br>
+      An end-to-end ML application trained on 40+ million US DOT flight records. Uses LightGBM, DuckDB, and FastAPI to predict 15+ minute arrival delays with calibrated probabilities and SHAP-style explanations. <a href="https://flight-delay-predictor-87mn.onrender.com">Live Demo</a>.
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/arpitk2509/Tableau-Sales-and-Customer-Dashboard">📊 Sales & Customer Dashboard</a></b><br>
-      A two-tier Tableau dashboard built to practice a specific, useful skill: spotting that a product category can look great on revenue and still be quietly losing money. <a href="https://public.tableau.com/app/profile/arpit.kumar8685/viz/SalesandCustomerDashboard_17815163510030/CustomerDashboard">Live Interactive Version</a>.
+      <b><a href="https://github.com/arpitk2509/Face-ID-System">📸 Face ID System</a></b><br>
+      A real-time facial recognition app built from scratch rather than off a pre-trained model. Features a custom CNN in TensorFlow/Keras, OpenCV handling webcam capture and preprocessing, and a multi-threaded Tkinter GUI so the app doesn't freeze while training in the background.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <b><a href="https://github.com/arpitk2509/Tableau-Sales-and-Customer-Dashboard">📊 Sales & Customer Dashboard</a></b><br>
+      A two-tier Tableau dashboard built to practice a specific, useful skill: spotting that a product category can look great on revenue and still be quietly losing money. <a href="https://public.tableau.com/app/profile/arpit.kumar8685/viz/SalesandCustomerDashboard_17815163510030/CustomerDashboard">Live Interactive Version</a>.
+    </td>
+    <td width="50%" valign="top">
       <b><a href="https://github.com/arpitk2509/FitCheck-Smart-Health-Fitness-Analyzer">🩺 FitCheck (SIH 2025)</a></b><br>
       An AI/ML-based Health & Fitness Report Analyzer developed for the Smart India Hackathon. Translates complex medical data into actionable insights using Logistic Regression, Random Forest, and XGBoost.
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
       <b><a href="https://github.com/arpitk2509/Data-Scientist-Internship-Prodigy-Infotech">📈 EDA & Classification Suite</a></b><br>
       A suite of projects refining fundamental data workflows, including Titanic survival predictions, road traffic accident analysis, and Twitter sentiment extraction using NLP.
     </td>
@@ -83,5 +91,4 @@ If you're a recruiter and you've read this far: I'd rather answer specific quest
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arpitk2509&color=6366F1&style=flat&label=profile+views" alt="Profile Views" />
-</p>
+  <img src="
